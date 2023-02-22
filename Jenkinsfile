@@ -7,7 +7,7 @@ pipeline {
         stage("stage-1") {
  
                 steps {
-                   echo "hello"
+                   echo "this is dev branch"
                 }  
         }
 
